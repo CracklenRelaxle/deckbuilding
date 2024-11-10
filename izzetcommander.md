@@ -89,13 +89,15 @@ Young Pyromancer
 ```
 ## Things to be replaced:
 ```
-clear the mind --> ?
+clear the mind --> Flame of anor
 thermo alchemist -->  Archmage Emeritus
+firemind's research --> decanter of endless water
+Shock --> gamble
+Niv-Mizzet, the Firemind --> Niv-Mizzet, Parun
 ```
 ## chopping block?
 ```
-firemind's research
-Shock
+
 ```
 ## total split:
 ```
