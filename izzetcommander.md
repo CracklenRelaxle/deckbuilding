@@ -1,4 +1,4 @@
-Current deck list:
+## Current deck list:
 
 ```
 Aetherize
@@ -86,4 +86,25 @@ Tormenting Voice
 Wandering Fumarole
 Winged Words
 Young Pyromancer
+```
+## Things to be replaced:
+```
+clear the mind --> ?
+thermo alchemist -->  Archmage Emeritus
+```
+## chopping block?
+```
+firemind's research
+Shock
+```
+## total split:
+```
+4 ramp
+35 lands
+15 creatures
+22 card draw
+4 other spells
+11 single target removal
+5 burn
+3 board wipe
 ```
