@@ -52,7 +52,6 @@ Lightning Bolt
 Lightning Strike
 Lonely Sandbar
 Mana Leak
-Mocking Sprite
 Mystic Retrieval
 Negate
 Niv-Mizzet, the Firemind
@@ -90,10 +89,19 @@ Young Pyromancer
 ## Things to be replaced:
 ```
 clear the mind --> Flame of anor
-thermo alchemist -->  Archmage Emeritus
+thermo alchemist -->  Haughty Djinn
 firemind's research --> decanter of endless water
-Shock --> gamble
+Shock --> Jace's archivist
 Niv-Mizzet, the Firemind --> Niv-Mizzet, Parun
+Electrostatic infantry --> psychosis crawler
+Balmor, Battlemage Captain --> Chasm Skulker
+Johann, Apprentice Sorc --> The Locust God
+Galvanize --> Windfall
+Beacon Bolt --> Thought Vessel
+Ophidian Eye --> Brainsurge
+Storm's Wrath --> Brotherhood's end
+Swarm intelligence --> quick study
+Goblin Electromancer --> Talisman of creativity
 ```
 ## chopping block?
 ```
